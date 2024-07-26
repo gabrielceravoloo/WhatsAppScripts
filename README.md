@@ -12,7 +12,13 @@ Este projeto fornece códigos para enviar o script inteiro de filmes/musicas par
 
 ### **Como utilizar:**
 
-Para utilizar, abra o arquivo shrekSendScript.js ou beeMovieSendScript.js. Copie todo o conteúdo do arquivo (clique em "raw", depois use "Ctrl+A" para selecionar tudo e "Ctrl+C" para copiar). Em seguida, no WhatsApp Web, abra o console do navegador, cole o código no console e pressione Enter. Agora, o script será enviado para o chat selecionado.
+- Navegue até a pasta onde os scripts prontos estão localizados e escolha um dos arquivos disponíveis
+- Clique para visualizar o código em formato bruto
+- Utilize o atalho **Ctrl+A** para selecionar todo o código
+- Copie o código selecionado com **Ctrl+C**
+- Abra o WhatsApp Web no seu navegador
+- Abra o console do navegador
+- Cole o código copiado no console e pressione Enter para executá-lo
 
 ### **Atualizações sobre:**
 
