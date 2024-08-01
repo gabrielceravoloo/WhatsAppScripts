@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ea6ddfbc-113c-4b26-9172-1ddb6e6adc45" alt="Banner do Repositório">
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea6ddfbc-113c-4b26-9172-1ddb6e6adc45" alt="Capa do Repositório">
+</div>
 
 ![Status do Projeto](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=green&style=for-the-badge)
 
